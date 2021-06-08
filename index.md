@@ -8,7 +8,7 @@
       <p><b>研究方向: 语音增强，语音分离，语音识别</b></p>
     </td>
     <td width="25%">
-      <img src="/photo.jpg" width="75%"> 
+      <img src="/photo.jpg" width="60%"> 
     </td>
   </tr>
 </table>
@@ -49,5 +49,5 @@ Leetcode
 - [转载: 我是如何看这个世界](https://mp.weixin.qq.com/s?__biz=MzAwNjY3MzExOQ==&mid=2247484009&idx=1&sn=906b83edc3431d3eb6a3da942d0743c3&chksm=9b0885d9ac7f0ccf28792f9a313ab84d8dca87e520162afbb99947e30bd7b8aca5f1293c32d8&token=1523695542&lang=zh_CN#rd)
 - [Leetcode树专题：111、112](https://mp.weixin.qq.com/s?__biz=MzAwNjY3MzExOQ==&mid=2247484005&idx=1&sn=32db038fc3d64347ce8dd8a17eb68368&chksm=9b0885d5ac7f0cc3dd68945262251baae829596197eb10e42442e7fd8eca48e53b2547ba4ce6&token=1523695542&lang=zh_CN#rd)
 
-![公众号](/title.png)
+
 <img src="/title.png" width="50%">
