@@ -1,25 +1,20 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
+      <h1>念朝旭</h1>
       <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>中国科学技术大学信息学院</b></p>
+      <p><b>邮箱：zxnian@mail.ustc.edu.cn</b></p>
+      <p><b>研究方向: 语音增强，语音分离，语音识别</b></p>
     </td>
     <td width="25%">
-      <img src="/photo.jpg" width="100%">      % 插入证件照代码
+      <img src="/photo.jpg" width="75%"> 
     </td>
   </tr>
 </table>
-————————————————
-版权声明：本文为CSDN博主「zxhohai」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/hohaizx/article/details/85066248
+
 ### 念朝旭
 
-- 电话: +86 178 5420 1609
-- 邮件: zxnian@mail.ustc.edu.cn
-- 研究方向: 语音增强，语音分离，语音识别
 - [Github Link](https://github.com/elissopp)
 - [Leetcode Link](https://leetcode-cn.com/u/zxnian_ustc/)
 
@@ -40,7 +35,7 @@
 
 ### 论文成果
 
-\textbf{Zhaoxu Nian}, et al. "A Progressive Learning Approach to Adaptive Noise and Speech Estimation for Speech Enhancement and Noisy Speech Recognition," Published on [ICASSP 2021](https://2021.ieeeicassp.org/). [IEEE Xplore Link](https://ieeexplore.ieee.org/document/9413395)
+Zhaoxu Nian, et al. "A Progressive Learning Approach to Adaptive Noise and Speech Estimation for Speech Enhancement and Noisy Speech Recognition," Published on [ICASSP 2021](https://2021.ieeeicassp.org/). [IEEE Xplore Link](https://ieeexplore.ieee.org/document/9413395)
 
 
 ### 近期文章
@@ -55,3 +50,4 @@ Leetcode
 - [Leetcode树专题：111、112](https://mp.weixin.qq.com/s?__biz=MzAwNjY3MzExOQ==&mid=2247484005&idx=1&sn=32db038fc3d64347ce8dd8a17eb68368&chksm=9b0885d5ac7f0cc3dd68945262251baae829596197eb10e42442e7fd8eca48e53b2547ba4ce6&token=1523695542&lang=zh_CN#rd)
 
 ![公众号](/title.png)
+<img src="/title.png" width="50%">
