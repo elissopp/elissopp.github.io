@@ -1,20 +1,8 @@
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>念朝旭</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>中国科学技术大学信息学院</b></p>
-      <p><b>邮箱：zxnian@mail.ustc.edu.cn</b></p>
-      <p><b>研究方向: 语音增强，语音分离，语音识别</b></p>
-    </td>
-    <td width="25%">
-      <img src="/photo.jpg" width="60%"> 
-    </td>
-  </tr>
-</table>
 
 ### 念朝旭
 
+- 邮箱：zxnian@mail.ustc.edu.cn
+- 研究方向: 语音增强，语音分离，语音识别
 - [Github Link](https://github.com/elissopp)
 - [Leetcode Link](https://leetcode-cn.com/u/zxnian_ustc/)
 
@@ -25,15 +13,24 @@
     - 信号处理和模式识别应用团队(SPART) [[link](http://staff.ustc.edu.cn/~jundu/index.html)]
 - 山东大学      2016.09-2020.06 学士学位
 
-### 科研经历
+### 科研领域
 
 - 2019.09-至今    NELSLIP
+    - 鲁棒语音识别  
     - 面向语音识别的语音增强
     - 语音分离
 - 2017.03-2019.03   山东大学 [MMPC实验室](www.mmpc.pw)
     - 目标检测，点云配准，点云上采样
 
+### 实习经历
+
+- 2021.08-至今    科大讯飞AI研究院
+    - 参加DCASE2022 task3
+    - 搭建misp基线 [[link](https://github.com/mispchallenge/misp2021_baseline)]
+    - 远场语音识别 (CHiME-6相关)
+
 ### 论文成果
+Zhaoxu Nian, et al. “A Time Domain Progressive Learning Approach with SNR Constriction forSingle-Channel Speech Enhancement and Recognition,”  Published on [ICASSP 2022](https://2022.ieeeicassp.org/)
 
 Zhaoxu Nian, et al. "A Progressive Learning Approach to Adaptive Noise and Speech Estimation for Speech Enhancement and Noisy Speech Recognition," Published on [ICASSP 2021](https://2021.ieeeicassp.org/). [IEEE Xplore Link](https://ieeexplore.ieee.org/document/9413395)
 
